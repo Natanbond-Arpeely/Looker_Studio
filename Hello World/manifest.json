@@ -1,0 +1,7 @@
+{
+    "visualization": {
+      "id": "helloWorldViz",
+      "label": "Hello World Viz",
+      "script": ["hello-world.js"]
+    }
+  }
